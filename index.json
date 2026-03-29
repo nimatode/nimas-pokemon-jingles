@@ -12,14 +12,6 @@
     {
       "game": "Pokemon Pinball",
       "file": "jingles/gbc/pkmn-pinball-1997.wav"
-    },
-    {
-      "game": "Pokemon - Gold Version",
-      "file": "jingles/gbc/pkmn-gold.wav"
-    },
-    {
-      "game": "Pokemon - Crystal Version",
-      "file": "jingles/gbc/pkmn-crystal.wav"
     }
   ]
 }
