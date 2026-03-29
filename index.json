@@ -11,7 +11,8 @@
     },
     {
       "game": "Pokemon Let's Go, Eevee!",
-      "file": "jingles/switch/pkmn-lets-go-eevee.wav"
+      "file": "jingles/switch/pkmn-lets-go-eevee.wav",
+      "regex": "pok[eé]mon"
     }
   ]
 }
