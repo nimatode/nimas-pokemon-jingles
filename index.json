@@ -8,6 +8,10 @@
     {
       "game": "Example Game 2",
       "file": "jingles/example-game-2.mp3"
+    },
+    {
+      "game": "Pokemon Let's Go Eevee",
+      "file": "jingles/switch/pkmn-lets-go-eevee.wav"
     }
   ]
 }
