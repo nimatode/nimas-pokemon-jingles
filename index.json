@@ -24,6 +24,10 @@
     {
       "game": "Pokemon Omega Ruby",
       "file": "jingles/3ds/pkmn-omega-ruby.wav"
+    },
+    {
+      "game": "Pokemon Alpha Sapphire",
+      "file": "jingles/3ds/pkmn-alpha-sapphire.wav"
     }
   ]
 }
