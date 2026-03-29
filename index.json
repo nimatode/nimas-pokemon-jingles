@@ -32,6 +32,8 @@
       "file": "jingles/gb/pkmn-yellow-3.wav"
     }
   ],
+  "gamecube": [],
+  "nds": [],
   "3ds": [
     {
       "game": "Pokemon Omega Ruby",
@@ -75,5 +77,6 @@
       "game": "Pokemon Let's Go, Pikachu!",
       "file": "jingles/switch/pkmn-lets-go-pikachu.wav"
     }
-  ]
+  ],
+  "wii": []
 }
