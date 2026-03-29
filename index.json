@@ -32,6 +32,18 @@
     {
       "game": "Pokemon Alpha Sapphire",
       "file": "jingles/3ds/pkmn-alpha-sapphire.wav"
-    }
+    },
+    {
+      "game": "Pokemon Sun",
+      "file": "jingles/3ds/pkmn-sun.wav"
+    },,
+    {
+      "game": "Pokemon Pokemon Sun",
+      "file": "jingles/3ds/pkmn-sun-2.wav"
+    },,
+    {
+      "game": "Pokemon Pokemon Sun",
+      "file": "jingles/3ds/pkmn-sun-3.wav"
+    },
   ]
 }
