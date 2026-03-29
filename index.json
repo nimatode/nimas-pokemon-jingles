@@ -18,6 +18,10 @@
       "file": "jingles/gbc/pkmn-gold.wav"
     },
     {
+      "game": "Pokemon - Silver Version",
+      "file": "jingles/gbc/pkmn-silver.wav"
+    },
+    {
       "game": "Pokemon - Crystal Version",
       "file": "jingles/gbc/pkmn-crystal.wav"
     },
