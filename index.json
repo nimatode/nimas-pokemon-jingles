@@ -1,5 +1,7 @@
 {
-  "name": "Example Jingle Pack",
+  "name": "nimas pokemon jingles",
+  "gb" [],
+  "gba": [],
   "gbc": [
     {
       "game": "Pokemon - Crystal Version",
@@ -28,16 +30,6 @@
     {
       "game": "Pokemon - Yellow Version",
       "file": "jingles/gb/pkmn-yellow-3.wav"
-    }
-  ],
-  "switch": [
-    {
-      "game": "Pokemon Let's Go, Eevee!",
-      "file": "jingles/switch/pkmn-lets-go-eevee.wav"
-    },    
-    {
-      "game": "Pokemon Let's Go, Pikachu!",
-      "file": "jingles/switch/pkmn-lets-go-pikachu.wav"
     }
   ],
   "3ds": [
@@ -72,6 +64,16 @@
     {
       "game": "Pokemon Sun",
       "file": "jingles/3ds/pkmn-sun-3.wav"
+    }
+  ], 
+  "switch": [
+    {
+      "game": "Pokemon Let's Go, Eevee!",
+      "file": "jingles/switch/pkmn-lets-go-eevee.wav"
+    },    
+    {
+      "game": "Pokemon Let's Go, Pikachu!",
+      "file": "jingles/switch/pkmn-lets-go-pikachu.wav"
     }
   ]
 }
