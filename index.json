@@ -20,6 +20,10 @@
     {
       "game": "Pokemon - Crystal Version",
       "file": "jingles/gbc/pkmn-crystal.wav"
+    },
+    {
+      "game": "Pokemon Omega Ruby",
+      "file": "jingles/gbc/pkmn-omega-ruby.wav"
     }
   ]
 }
