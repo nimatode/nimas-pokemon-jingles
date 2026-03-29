@@ -1,7 +1,20 @@
 {
   "name": "nimas pokemon jingles",
   "gb": [],
-  "gba": [],
+  "gba": [
+    {
+      "game": "Pokemon - Ruby Version",
+      "file": "jingles/gba/pkmn-ruby.wav"
+    },
+    {
+      "game": "Pokemon - Ruby Version",
+      "file": "jingles/gba/pkmn-ruby-2.wav"
+    },
+    {
+      "game": "Pokemon - Ruby Version",
+      "file": "jingles/gba/pkmn-ruby-3.wav"
+    }
+  ],
   "gbc": [
     {
       "game": "Pokemon - Crystal Version",
