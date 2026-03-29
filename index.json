@@ -4,8 +4,11 @@
     {
       "game": "Pokemon Let's Go, Eevee!",
       "file": "jingles/switch/pkmn-lets-go-eevee.wav",
-      "regex": "pok[eé]mon"
     },    
+    {
+      "game": "Pokemon Let's Go, Pikachu!",
+      "file": "jingles/switch/pkmn-lets-go-pikachu.wav",
+    },
     {
       "game": "Pokemon Pinball",
       "file": "jingles/gbc/pkmn-pinball-1997.wav"
