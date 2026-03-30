@@ -71,7 +71,8 @@
   "switch": [
     {
       "game": "Pokemon Lets Go Pikachu",
-      "file": "jingles/switch/pkmn-lets-go-eevee.wav"
+      "file": "jingles/switch/pkmn-lets-go-eevee.wav",
+      "regex": "pokemon.*(lets.go|letsgo).*(eevee)"
     }
   ],
   "wii": []
