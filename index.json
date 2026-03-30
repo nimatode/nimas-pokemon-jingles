@@ -43,6 +43,10 @@
     {
       "game": "Pokemon - Yellow Version",
       "file": "jingles/gb/pkmn-yellow-3.wav"
+    },   
+    {
+      "game": "Pokemon Let's Go, Eevee!",
+      "file": "jingles/switch/pkmn-lets-go-eevee.wav"
     }
   ],
   "gamecube": [],
