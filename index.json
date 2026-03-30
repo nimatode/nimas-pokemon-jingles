@@ -72,6 +72,10 @@
     {
      "game": "Pokemon Sword",
      "file": "jingles/gbc/pkmn-crystal.wav" 
+    },
+    {
+      "game": "Pokemon Let's Go, Eevee!",
+      "file": "jingles/gbc/pkmn-crystal.wav"
     }
   ],
   "wii": []
