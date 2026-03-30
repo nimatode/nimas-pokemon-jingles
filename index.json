@@ -70,7 +70,7 @@
   ], 
   "entries": [
     {
-      "game": "Pokemon Lets Go Pikachu",
+      "game": "Pokemon Lets Go Eevee",
       "file": "jingles/switch/pkmn-lets-go-eevee.wav",
       "regex": "pokemon.*(lets.go|letsgo).*(eevee)"
     }
