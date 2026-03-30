@@ -1,8 +1,6 @@
-# Jingle Repo Example
+# Nima's Pokemon Jingles
 
-A template repository for creating Cocoon jingle packs. Use this template
-to build your own collection of game jingles that can be used with
-[Cocoon](https://github.com/inssekt/CocoonFE).
+A repository of custom edited Cocoon jingle packs for various Pokémon titles. This repository covers most games from Gameboy, all the way to Nintendo Switch. 
 
 ## Quick Start
 
