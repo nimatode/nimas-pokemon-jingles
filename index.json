@@ -70,11 +70,11 @@
   ],
   "switch": [
     {
-     "game": "Pokemon Sword",
+     "game": "Pokemon Shield",
      "file": "jingles/gbc/pkmn-crystal.wav" 
     },
     {
-      "game": "Pokemon Let's Go, Eevee!",
+      "game": "Pokemon Sword",
       "file": "jingles/gbc/pkmn-crystal.wav"
     }
   ],
