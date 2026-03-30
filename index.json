@@ -1,7 +1,7 @@
 {
   "name": "nimas pokemon jingles",
   "gb": [],
-  "gba": [
+  "entries": [
     {
       "game": "Pokemon Sword",
       "file": "jingles/switch/pkmn-za-2"
