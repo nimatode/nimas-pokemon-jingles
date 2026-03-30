@@ -1,7 +1,12 @@
 {
   "name": "nimas pokemon jingles",
   "gb": [],
-  "gba": [],
+  "gba": [
+    {
+      "game": "Pokemon - LeafGreen",
+      "file": "jingles/gbc/pkmn-crysta;.wav"
+    }
+  ],
   "gbc": [
     {
       "game": "Pokemon - Crystal Version",
