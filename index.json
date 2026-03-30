@@ -68,6 +68,11 @@
       "file": "jingles/3ds/pkmn-sun-3.wav"
     }
   ], 
-  "switch": [],
+  "switch": [
+    {
+      "game": "Pokemon Let's Go, Eevee!",
+      "file": "jingles/switch/pkmn-lets-go-eevee.wav"
+    }
+  ],
   "wii": []
 }
