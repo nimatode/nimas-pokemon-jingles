@@ -1,12 +1,7 @@
 {
   "name": "nimas pokemon jingles",
   "gb": [],
-  "entries": [
-    {
-      "game": "Pokemon Sword",
-      "file": "jingles/gbc/pkmn-crystal"
-    }
-  ],
+  "gba": [],
   "gbc": [
     {
       "game": "Pokemon - Crystal Version",
@@ -73,5 +68,11 @@
       "file": "jingles/3ds/pkmn-sun-3.wav"
     }
   ],
+  "switch": [
+    {
+     "game": "Pokemon Sword",
+     "file": "jingles/gbc/pkmn-crystal.wav" 
+    }
+  ]
   "wii": []
 }
