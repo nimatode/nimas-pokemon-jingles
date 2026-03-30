@@ -83,11 +83,11 @@
   ], 
   "switch": [
     {
-      "game": "Pokemon Let's Go, Eevee!",
+      "game": "Pokemon Lets Go Eevee",
       "file": "jingles/switch/pkmn-lets-go-eevee.wav"
     },    
     {
-      "game": "Pokemon Let's Go, Pikachu!",
+      "game": "Pokemon Lets Go Pikachu",
       "file": "jingles/switch/pkmn-lets-go-pikachu.wav"
     },
     {
