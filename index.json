@@ -81,27 +81,6 @@
       "file": "jingles/3ds/pkmn-sun-3.wav"
     }
   ], 
-  "switch": [
-    {
-      "game": "Pokemon Lets Go Eevee",
-      "file": "jingles/switch/pkmn-lets-go-eevee.wav"
-    },    
-    {
-      "game": "Pokemon Lets Go Pikachu",
-      "file": "jingles/switch/pkmn-lets-go-pikachu.wav"
-    },
-    {
-      "game": "Pokemon Legends ZA",
-      "file": "jingles/switch/pkmn-za"
-    },
-    {
-      "game": "Pokemon Legends ZA",
-      "file": "jingles/switch/pkmn-za-2"
-    },
-    {
-      "game": "Pokemon Legends ZA",
-      "file": "jingles/switch/pkmn-za-3"
-    }
-  ],
+  "switch": [],
   "wii": []
 }
