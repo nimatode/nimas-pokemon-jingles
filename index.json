@@ -1,6 +1,13 @@
 {
   "name": "nimas pokemon jingles",
-  "gb": [],
+  "gb": [], 
+  "switch": [
+    {
+      "game": "Pokemon Lets Go Eevee",
+      "file": "jingles/switch/pkmn-lets-go-eevee.wav",
+      "regex": "pokemon.*(lets.go|letsgo).*(eevee)"
+    }
+  ],
   "gba": [],
   "gbc": [
     {
@@ -66,13 +73,6 @@
     {
       "game": "Pokemon Sun",
       "file": "jingles/3ds/pkmn-sun-3.wav"
-    }
-  ], 
-  "switch": [
-    {
-      "game": "Pokemon Lets Go Eevee",
-      "file": "jingles/switch/pkmn-lets-go-eevee.wav",
-      "regex": "pokemon.*(lets.go|letsgo).*(eevee)"
     }
   ],
   "wii": []
