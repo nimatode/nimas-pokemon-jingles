@@ -120,7 +120,8 @@
     },
     {
       "game": "Pokemon Legends ZA",
-      "file": "jingles/switch/pkmn-sword-3.wav"
+      "file": "jingles/switch/pkmn-sword-3.wav",
+      "regex": "pok[eé]mon"
     }
   ],
   "wii": []
