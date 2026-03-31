@@ -117,6 +117,10 @@
     {
       "game": "Pokemon Sword",
       "file": "jingles/switch/pkmn-sword-3.wav"
+    },
+    {
+      "game": "Pokemon Z A",
+      "file": "jingles/switch/pkmn-sword-3.wav"
     }
   ],
   "wii": []
