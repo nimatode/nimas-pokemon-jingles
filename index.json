@@ -3,8 +3,28 @@
   "gb": [],
   "gba": [
     {
-      "game": "Pokemon - Ruby",
+      "game": "Pokemon - Sapphire Version",
+      "file": "jingles/gba/pkmn-sapphire.wav"
+    },
+    {
+      "game": "Pokemon - Sapphire Version",
+      "file": "jingles/gba/pkmn-sapphire-2.wav"
+    },
+    {
+      "game": "Pokemon - Sapphire Version",
+      "file": "jingles/gba/pkmn-sapphire-3.wav"
+    },
+    {
+      "game": "Pokemon - Ruby Version",
       "file": "jingles/gba/pkmn-ruby.wav"
+    },
+    {
+      "game": "Pokemon - Ruby Version",
+      "file": "jingles/gba/pkmn-ruby-2.wav"
+    },
+    {
+      "game": "Pokemon - Ruby Version",
+      "file": "jingles/gba/pkmn-ruby-3.wav"
     }
   ],
   "gbc": [
