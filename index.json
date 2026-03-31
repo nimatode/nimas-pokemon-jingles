@@ -96,11 +96,27 @@
   "switch": [
     {
      "game": "Pokemon Shield",
-     "file": "jingles/gbc/pkmn-crystal.wav" 
+     "file": "jingles/switch/pkmn-shield.wav" 
+    },
+    {
+     "game": "Pokemon Shield",
+     "file": "jingles/switch/pkmn-shield-2.wav" 
+    },
+    {
+     "game": "Pokemon Shield",
+     "file": "jingles/switch/pkmn-shield-3.wav" 
     },
     {
       "game": "Pokemon Sword",
-      "file": "jingles/gbc/pkmn-crystal.wav"
+      "file": "jingles/switch/pkmn-sword.wav"
+    },
+    {
+      "game": "Pokemon Sword",
+      "file": "jingles/switch/pkmn-sword-2.wav"
+    },
+    {
+      "game": "Pokemon Sword",
+      "file": "jingles/switch/pkmn-sword-3.wav"
     }
   ],
   "wii": []
